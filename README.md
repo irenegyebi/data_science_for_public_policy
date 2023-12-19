@@ -37,7 +37,7 @@ The H-1B program allows companies in the United States to temporarily employ for
 
 
 **H1B Data Preprocessing in Excel:** <br>
-I conducted comprehensive data preprocessing on the H1B dataset obtained from the Office of Foreign Labor Certification (OFLC) in Excel to enhance its suitability for analysis in Python. The preprocessing involved several key steps to ensure data integrity and consistency.
+I conducted comprehensive data preprocessing on the H1B dataset obtained from the Office of Foreign Labor Certification (OFLC) in Excel to enhance its suitability for analysis in Python because the datasets were too large and took a long time to load in python. The preprocessing involved several key steps to ensure data integrity and consistency.
 
 * Column Cleaning:
 Removed unnecessary columns to streamline the dataset.
